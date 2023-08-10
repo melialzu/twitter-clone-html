@@ -28,6 +28,8 @@ body {
     
 }
 
+
+
 .logo:hover{
     background-color: #ffffff15;
     
@@ -43,6 +45,9 @@ nav {
     margin-bottom: 1rem;
 }
 
+
+
+
 .main-menu ul li a{
     padding: 0.5rem 1.5rem;
     display: inline-block;
@@ -51,6 +56,32 @@ nav {
 .main-menu ul li a:hover{
     background-color: #ffffff15;
 }
+
+
+
 .main-menu ul li a.active{
     font-weight: bold;
+}
+
+.btn {   
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 0.5rem 6rem;
+    cursor: pointer;
+    border-radius: 2rem;
+}
+
+
+
+.btn.primary{
+    background-color:#1D9BF0; 
+    align-items: center;
+    color: #ffffff;
+   
+     
+
+}
+
+.btn.primary:hover{
+    background-color: #1a8cd8;
 }
