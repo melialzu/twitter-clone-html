@@ -1,0 +1,14 @@
+/*Reset*/
+
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
