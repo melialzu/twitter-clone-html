@@ -1,22 +1,23 @@
-/*Reset*/
-
-*{
+* {
     box-sizing: border-box;
 }
-
 body {
     margin: 0;
 }
-
 a {
     color: #ffffff;
     text-decoration: none;
 }
-ul{
+ul {
     margin: 0;
     padding: 0;
 }
-
-ul li{
+ul li {
     list-style: none;
+}
+button {
+    border: none;
+    background: none;
+    padding: 0;
+    color: #ffffff;
 }
